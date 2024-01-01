@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(28, 96, 107);
+    color: rgb(236, 236, 236);
+    font-family: 'Comfortaa', sans-serif;
+}
+.box{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border:1px solid black;
+    text-align: center;
+    background-image: linear-gradient(rgb(2, 71, 81),rgb(103, 5, 143));
+    display: block;
+    width: 400px;
+    height: 650px;
+    margin-left: 100px;
+    border-radius: 2%;
+}
+.picture{
+    /*border: 4px purple solid;*/
+    padding: 10px;
+    text-align: center;
+}
+.photo img{
+    border-radius: 90%;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.name{
+    font-size: 18px;
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(255, 255, 255)5, 255, 255, 0.023);
+    
+}
+a{
+    color: rgb(220, 204, 204)
+}
+.links{
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 25px;
+    color: white;
+}
+.instagram{
+    text-align: center;
+    margin-bottom: 10px;
+/*  border: 1px solid red;*/ 
+    padding : 15px;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        
+}
+.Linkedin{
+    text-align: center;
+    margin-bottom: 10px;
+ /* border: 1px solid red;*/
+    padding : 15px;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.E-mail{
+    text-align: center;
+    margin-bottom: 10px;
+    /* border: 1px solid red; */
+    padding : 15px;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.GitHub{
+    text-align: center;
+    margin-bottom: 10px;
+   /* border: 1px solid red; */
+    padding : 15px;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.Portifolio{
+    text-align: center;
+   /* border: 1px solid red; */
+    padding : 15px;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+
